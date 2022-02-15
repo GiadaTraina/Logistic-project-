@@ -1,0 +1,8 @@
+data;
+set Shirt := A B C;
+set Department:= cutting sewing;
+
+param MaxUnit: A B C:= cutting 2000 1600 1100 sewing 1000 1500 2400;
+param Profit:= A 12 B 9 C 8;
+param Hours:= cutting 10 sewing 12;
+
