@@ -1,4 +1,4 @@
 # Logistic-project-
-Project for the course in Logistics at @university of pisa Developed a mathematical model and applied it in order to solve the location problem assigned.
+Progetto svolto durante il corso di "Logistics" presso @university of pisa. Riguardante lo sviluppo di un modello matematico per risolvere un location problem assigned.
 
 Implemented in AMPL and solved in CPLEX
